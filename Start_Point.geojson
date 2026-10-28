@@ -1,0 +1,10 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Meeet" },
+      "geometry": { "type": "Point", "coordinates": [13.373686, 52.5375903] }
+    }
+  ]
+}
